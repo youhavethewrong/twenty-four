@@ -1,4 +1,4 @@
-(defproject twenty-four "0.1.0-SNAPSHOT"
+(defproject twenty-four "0.1.0"
   :description "A 24-bit ANSI color library."
   :url "https://github.com/youhavethewrong/twenty-four.git"
   :license {:name "Eclipse Public License"
