@@ -1,4 +1,5 @@
 # twenty-four
+[![Clojars Project](https://img.shields.io/clojars/v/twenty-four.svg)](https://clojars.org/twenty-four)
 
 ## Usage
 
@@ -8,7 +9,7 @@
 
 ## License
 
-Copyright © 2017 ESC
+Copyright Â© 2017 ESC
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
