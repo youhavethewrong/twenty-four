@@ -1,6 +1,11 @@
 # twenty-four
 [![Clojars Project](https://img.shields.io/clojars/v/twenty-four.svg)](https://clojars.org/twenty-four)
 
+Make your terminal programs beautiful with
+[twenty-four](https://github.com/youhavethewrong/twenty-four)!  Just
+wrap text with twenty-four.core/fg to change the foreground color and
+twenty-four.core/bg to change the background color.
+
 ## Usage
 
     (fg "taco" 234 44 19)
